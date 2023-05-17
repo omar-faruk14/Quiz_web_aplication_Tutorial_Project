@@ -27,7 +27,12 @@ body{
 }
 
 .text h3{
-    margin-top: 5%;
+    margin-top: 10%;
+}
+.MyBtn{
+    width: 60%;
+    margin-top: -2px;
+    margin-left: 187px !important;
 }
 .MyBtn button{
     font-size: 20px;
