@@ -49,6 +49,12 @@ body{
 .MyBtn button:hover{
     background-color: rgb(29, 194, 194);
 }
+.Questions.activeInfo {
+    opacity: 1;
+    z-index: 5;
+    pointer-events: auto;
+    transform: translate(-50%, -50%) scale(1);
+}
 
 .Questions{
     position: absolute;
